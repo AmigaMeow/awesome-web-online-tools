@@ -91,6 +91,9 @@
 
 - [17nas.com/ipv6-test](https://17nas.com/ipv6-test.php) - Free IPv6 connection test; check IPv4/IPv6 addresses, latency, ISP info and dual-stack status in real time.
 ### Image Optimizer
+- [17nas.com/ip-test](https://17nas.com/ip-test.php) - Free IP lookup; check your public IPv4/IPv6 address, location and ISP, no signup.
+- [17nas.com/https-check](https://17nas.com/https-check.php) - Free HTTPS/SSL checker; verify certificates, expiry and security headers, no signup.
+
 - [tinypng.com](https://tinypng.com/) - Make your website faster and save bandwidth. TinyPNG optimizes your PNG images by 50-80% while preserving full transparency! (Best)
 - [compressor.io](https://compressor.io/compress) - Compress and optimize your images Up to 90% file size reduction.
 - [optimizilla.com](http://optimizilla.com/) - This online image optimizer uses a smart combination of the best optimization and lossy compression algorithms to shrink JPEG and PNG images to the minimum possible size while keeping the required level of quality.
